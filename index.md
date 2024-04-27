@@ -14,7 +14,14 @@ Committee member in [Society of Physics Students](https://www.spsnational.org/)
  - Quantum Field Theory
  - Holographic Duality
 
+## Honors
+ - The Second Prize Scholarship for Undergraduate Students in Sun Yat-Sen University, 2023
+ - The Third Prize in China Undergraduate Physics Tournament, 2023
+ - The First Prize in China Undergraduate Physics Tournament, Central South Division, 2023
+
 ## Technical Skills
  - Computer Language: Mathematica, C++, MATLAB, LaTeX, python
  - Experiment: COMSOL, Origin, Tracker, Solidworks,PASCO
  - Language: Chinese(Mandarin), English (CET-6 566)
+
+
