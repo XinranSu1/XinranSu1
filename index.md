@@ -17,10 +17,8 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
 ## Research
  - Bootstrapping for Matrix Models
 
-## Links
- - [Notes](https://xinransu1.github.io/XinranSu1/Scholar/)
- - Wechat Public Account：[Detect49](https://mp.weixin.qq.com/s/H5k0KGaTL0kF8M8NYhq4Bg)
- - Bilibili Account:[49侦探社](https://www.bilibili.com/video/BV1FG411e7wT/?share_source=copy_web&vd_source=84a9cfbb6a2b72a87f12b3f87a31e070)
+## Notes
+ - [Click Here](https://xinransu1.github.io/XinranSu1/Scholar/)
    
 ## Honors
  - The Second Prize Scholarship for Undergraduate Students in Sun Yat-Sen University, 2023
@@ -32,4 +30,6 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
  - Experiment: COMSOL, Origin, Tracker, Solidworks,PASCO
  - Language: Chinese(Mandarin), English (CET-6 566)
 
-
+## Links
+ - Wechat Public Account：[Detect49](https://mp.weixin.qq.com/s/H5k0KGaTL0kF8M8NYhq4Bg)
+ - Bilibili Account:[49侦探社](https://www.bilibili.com/video/BV1FG411e7wT/?share_source=copy_web&vd_source=84a9cfbb6a2b72a87f12b3f87a31e070)
