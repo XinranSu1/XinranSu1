@@ -14,4 +14,4 @@ title: "Notes and Videos"
  - [Notes on Electrodynamics_ch](Electrodynamics.pdf) (updated on 2024/04/05)
 
 ## General Relativity
- -[How to Prove Vector Identities Using Differential Language_ch](Proof_for_Identities.pdf) (updated on 2024/02/22)
+ - [How to Prove Vector Identities Using Differential Language_ch](Proof_for_Identities.pdf) (updated on 2024/02/22)
