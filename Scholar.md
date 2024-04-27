@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Notes and Talks"
+title: "Notes and Videos"
 ---
 
