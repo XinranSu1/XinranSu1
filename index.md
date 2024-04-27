@@ -14,15 +14,7 @@ Committee member in [Society of Physics Students](https://www.spsnational.org/)
  - Quantum Field Theory
  - Holographic Duality
 
-## Features
-
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Technical Skills
+ - Computer Language: Mathematica, C++, MATLAB, LaTeX, python
+ - Experiment: COMSOL, Origin, Tracker, Solidworks,PASCO
+ - Language: Chinese(Mandarin), English (CET-6 566)
