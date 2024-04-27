@@ -15,10 +15,13 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
  - Holographic Duality
 
 ## Research
-  - {file: "README.md"}
+ -[Bootstrapping Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
+
 
 ## Notes and Videos
- - [Click Here](https://xinransu1.github.io/XinranSu1/Scholar/)
+ - [Supersymmetry](https://xinransu1.github.io/XinranSu1/Scholar/)
+ - [Quantum Field Theory](https://xinransu1.github.io/XinranSu1/Scholar/)
+ - [Electrodynamics](https://xinransu1.github.io/XinranSu1/Scholar/)
    
 ## Honors
  - The Second Prize Scholarship for Undergraduate Students in Sun Yat-Sen University, 2023
