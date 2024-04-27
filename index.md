@@ -28,6 +28,6 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
  - Language: Chinese(Mandarin), English (CET-6 566)
 
 ## Links
- -  {file: "Scholar.md",title: "Notes"}
+ - {file: "Scholar.md",title: "Notes"}
  - Wechat Public Account：[Detect49](https://mp.weixin.qq.com/s/H5k0KGaTL0kF8M8NYhq4Bg)
  - Bilibili Account:[49侦探社](https://www.bilibili.com/video/BV1FG411e7wT/?share_source=copy_web&vd_source=84a9cfbb6a2b72a87f12b3f87a31e070)
