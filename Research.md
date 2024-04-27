@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Research"
+title: "Bootstrapping for Matrix Models"
 ---
-## Bootstrapping for Matrix Models
- -111
+## Introduction
+## Notes
+ - [Introduction to BFSS matrix model_ch](BFSS.pdf)(updated on 2024/04/26)
