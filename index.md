@@ -31,7 +31,7 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
 
 ## Technical Skills
  - Computer: Mathematica, C++, MATLAB, LaTeX, python
- - Experiment: COMSOL, Origin, Tracker, Solidworks,PASCO
+ - Experiment: COMSOL, Origin, Tracker, Solidworks, PASCO
  - Language: Chinese(Mandarin), English (CET-6 566)
 
 ## Links
