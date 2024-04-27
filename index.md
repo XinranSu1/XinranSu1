@@ -11,7 +11,6 @@ Committee member in [Society of Physics Students](https://www.spsnational.org/)
  Email: [suxr5@mail2.sysu.edu.cn](mailto:suxr5@mail2.sysu.edu.cn)
 
  ## Research Interests
- 
  - Quantum Field Theory
  - Holographic Duality
 
