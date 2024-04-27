@@ -7,4 +7,4 @@ title: "Research"
 
 Our research concentrates on how to use bootstrap methods on matrix models, especially the BFSS matrix model. Our target is to derive more accurate bootstrap bound on correlation functions of the BFSS matrix model, by developing systematically bootstrap method and imposing more constraints.
 
-My notes: [Brief Introduction to BFSS matrix model_ch](BFSS.pdf)( updated on 2024/04/26)
+My notes: [Brief Introduction to BFSS matrix model_ch](BFSS.pdf)(updated on 2024/04/26)
