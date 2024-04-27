@@ -15,7 +15,7 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
  - Holographic Duality
 
 ## Research
- -[Bootstrapping Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
+ - [Bootstrapping Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
 
 
 
