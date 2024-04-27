@@ -1,6 +1,6 @@
 title: "Xinran Su's website"
 author: "Xinran Su"
-description: "The most incomprehensible thing about <b style=\"color: #f45;\">the Universe is that it is comprehensible.</b>"
+description: "The most incomprehensible thing about the Universe is that it is comprehensible."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md",title: "<b style=\"color: #f45;\">Home</b>"}
-  - {file: "Scholar.md",title: "<b style=\"color: #f45;\">Notes and Videos</b>"}
-  - {file: "Research.md", title:"<b style=\"color: #f45;\">Research</b>"}
+  - {file: "index.md",title: "<b Home b>"}
+  - {file: "Scholar.md",title: "<b Notes and Videos b>"}
+  - {file: "Research.md", title:"<b Research b>"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:suxr5@mail2.sysu.edu.cn"}
