@@ -16,7 +16,7 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
 
 ## Research
  -[Bootstrapping Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
- -[111](Scholar.md)
+
 
 
 ## Notes and Videos
