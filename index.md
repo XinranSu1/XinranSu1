@@ -15,7 +15,7 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
  - Holographic Duality
 
 ## Research
- - [Bootstrapping Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
+ - [Bootstrapping for Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
 
 
 
@@ -36,4 +36,4 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
 
 ## Links
  - Wechat Public Account：[Detect49](https://mp.weixin.qq.com/s/H5k0KGaTL0kF8M8NYhq4Bg)
- - Bilibili Account:[49侦探社](https://www.bilibili.com/video/BV1FG411e7wT/?share_source=copy_web&vd_source=84a9cfbb6a2b72a87f12b3f87a31e070)
+ - Bilibili Account: [49侦探社](https://www.bilibili.com/video/BV1FG411e7wT/?share_source=copy_web&vd_source=84a9cfbb6a2b72a87f12b3f87a31e070)
