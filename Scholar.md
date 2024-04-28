@@ -3,7 +3,7 @@ layout: page
 title: "Notes and Videos"
 ---
 ## Quantum Field Theory
- - [Introduction to Schwinger-Dyson Equation_en](Schwinger-Dyson_Equation.pdf) (updated on 2024/04/23)
+ - [Derivation Example of Schwinger-Dyson Equation_en](Schwinger-Dyson_Equation.pdf) (updated on 2024/04/23)
  
  - [Note on Majorana Weyl Spinors_en](Majorana-Weyl_Spinor.pdf) (updated on 2024/04/16)
  
