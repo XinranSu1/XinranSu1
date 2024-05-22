@@ -30,7 +30,7 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
  - The First Prize in China Undergraduate Physics Tournament, Central South Division, 2023
 
 ## Technical Skills
- - Computer: Mathematica, C++, MATLAB, LaTeX, python
+ - Computer: Mathematica, C++, MATLAB, LaTeX, Python
  - Experiment: COMSOL, Origin, Tracker, Solidworks, PASCO
  - Language: Chinese(Mandarin), English (CET-6 566)
 
