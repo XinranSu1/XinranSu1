@@ -15,4 +15,4 @@ title: "Notes and Videos"
 
 ## General Relativity
  - [How to Prove Vector Identities Using Differential Language_ch](Proof_for_Identities.pdf) (updated on 2024/02/22)
- - [An Quick Condensed Notes on General Relativity and Holographic Principles_en](General_Relativity.pdf)(updated on 2024/02/03)
+ - [A Quick Condensed Notes on General Relativity and Holographic Principles_en](General_Relativity.pdf)(updated on 2024/02/03)
