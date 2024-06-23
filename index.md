@@ -20,7 +20,7 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
 
 
 ## Notes and Videos
- - [Supersymmetry](https://xinransu1.github.io/XinranSu1/Scholar/)
+ - [Course Paper](https://xinransu1.github.io/XinranSu1/Scholar/)
  - [Quantum Field Theory](https://xinransu1.github.io/XinranSu1/Scholar/)
  - [Electrodynamics](https://xinransu1.github.io/XinranSu1/Scholar/)
  - [General Relativity](https://xinransu1.github.io/XinranSu1/Scholar/)
