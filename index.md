@@ -8,7 +8,7 @@ My name is **Xinran Su (苏歆然)**, and I am currently an undergraduate studen
 You are very welcome to reach me at 📧 [suxr5@mail2.sysu.edu.cn](mailto:suxr5@mail2.sysu.edu.cn) or 📧[xinransu.phys@gmail.com](mailto:xinransu.phys@gmail.com).  
 
 ___
-Here is my CV: [XinranSu_CV.pdf](XinranSu_CV.pdf)  
+Here is my CV: [CV_sxr.pdf](CV_sxr.pdf)  
 ---
 
 ## Research
