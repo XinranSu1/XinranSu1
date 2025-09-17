@@ -10,20 +10,10 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
 
  Email: [suxr5@mail2.sysu.edu.cn](mailto:suxr5@mail2.sysu.edu.cn)
 
-## Research Interests
- - Quantum Field Theory
- - Holographic Duality
 
 ## Research
  - [Bootstrapping for Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
 
-
-
-## Notes and Videos
- - [Course Paper](https://xinransu1.github.io/XinranSu1/Scholar/)
- - [Quantum Field Theory](https://xinransu1.github.io/XinranSu1/Scholar/)
- - [Electrodynamics](https://xinransu1.github.io/XinranSu1/Scholar/)
- - [General Relativity](https://xinransu1.github.io/XinranSu1/Scholar/)
    
 ## Honors
  - The Second Prize Scholarship for Undergraduate Students in Sun Yat-Sen University, 2023
@@ -37,4 +27,3 @@ Committee Member in [Society of Physics Students](https://www.spsnational.org/)
 
 ## Links
  - Wechat Public Account：[Detect49](https://mp.weixin.qq.com/s/H5k0KGaTL0kF8M8NYhq4Bg)
- - Bilibili Account: [49侦探社](https://www.bilibili.com/video/BV1FG411e7wT/?share_source=copy_web&vd_source=84a9cfbb6a2b72a87f12b3f87a31e070)
