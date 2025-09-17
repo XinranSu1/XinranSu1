@@ -2,28 +2,39 @@
 layout: page
 title: "Xinran Su"
 ---
-Undergraduate Student in [School of Physics, Sun Yat-Sen University](https://spe.sysu.edu.cn/) 
 
-Member in [National Basic Subject Talent Training Plan 2.0](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AE%A1%E5%88%922.0%E5%9F%BA%E5%9C%B0/53704775?fr=aladdin) 
+Hi, welcome to my homepage!  
+My name is **Xinran Su (苏歆然)**, and I am currently an undergraduate student at the [School of Physics, Sun Yat-Sen University](https://spe.sysu.edu.cn/),enrolled in the [National Basic Subject Talent Training Plan 2.0](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AE%A1%E5%88%922.0%E5%9F%BA%E5%9C%B0/53704775?fr=aladdin))
+You are very welcome to reach me at 📧 [suxr5@mail2.sysu.edu.cn](mailto:suxr5@mail2.sysu.edu.cn) or 📧[xinransu.phys@gmail.com](mailto:xinransu.phys@gmail.com).  
 
-Committee Member in [Society of Physics Students](https://www.spsnational.org/)
-
- Email: [suxr5@mail2.sysu.edu.cn](mailto:suxr5@mail2.sysu.edu.cn)
-
+---
 
 ## Research
- - [Bootstrapping for Matrix Models](https://xinransu1.github.io/XinranSu1/Research/)
+- [Bootstrapping Yang-Mills Matrix Model](https://xinransu1.github.io/XinranSu1/Research/)
 
-   
+---
+
 ## Honors
- - The Second Prize Scholarship for Undergraduate Students in Sun Yat-Sen University, 2023
- - The Third Prize in China Undergraduate Physics Tournament, 2023
- - The First Prize in China Undergraduate Physics Tournament, Central South Division, 2023
+- Xu Chongqing President’s Scholarship, Sun Yat-sen University (2024)
+- First Prize Scholarship for Undergraduate Students, Sun Yat-Sen University (2024)
+- Second Prize Scholarship for Undergraduate Students, Sun Yat-Sen University (2023)  
+- Third Prize, China Undergraduate Physics Tournament (2023)  
+- First Prize, China Undergraduate Physics Tournament, Central South Division (2023)  
+
+---
+
+## Activities
+- Committee Member, [Society of Physics Students](https://www.spsnational.org/)  
+
+---
 
 ## Technical Skills
- - Computer: Mathematica, C++, MATLAB, LaTeX, Python
- - Experiment: COMSOL, Origin, Tracker, Solidworks, PASCO
- - Language: Chinese(Mandarin), English (CET-6 566)
+- **Computer**: Mathematica, C++, MATLAB, LaTeX, Python  
+- **Experiment**: COMSOL, Origin, Tracker, SolidWorks, PASCO  
+- **Language**: Chinese (Mandarin), English (CET-6: 566)  
+
+---
 
 ## Links
- - Wechat Public Account：[Detect49](https://mp.weixin.qq.com/s/H5k0KGaTL0kF8M8NYhq4Bg)
+- WeChat Public Account: [Detect49](https://mp.weixin.qq.com/s/H5k0KGaTL0kF8M8NYhq4Bg)  
+- [CV (PDF)](XinranSu_CV.pdf)   <!-- 你把CV文件放到仓库里，这里链接就能直接下载 -->
